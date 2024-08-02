@@ -11,13 +11,13 @@
         "mspOfferDescription": {
             "type": "string",
             "metadata": {
-                "description": "Name of the Managed Service Provider offering"
+                "description": "1120Offer"
             }
         },
         "managedByTenantId": {
             "type": "string",
             "metadata": {
-                "description": "Specify the tenant id of the Managed Service Provider"
+                "description": "2348d9cb-4274-46b2-873d-23f7dccfa0e6"
             }
         },
         "authorizations": {
